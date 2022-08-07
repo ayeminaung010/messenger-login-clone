@@ -25,5 +25,4 @@ let closeSection = document.getElementById("closeSection");
 
 button.addEventListener("click", function(){
     closeSection.style.display ="none";
-})
-    
+});
